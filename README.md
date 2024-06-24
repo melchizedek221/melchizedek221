@@ -5,7 +5,7 @@
   <img alt="github-snake" src="https://github.com/SirLynix/SirLynix/blob/snake/github-snake.svg">
 </picture>
 
-<!-- [![Metrics](/github-metrics.svg)](https://github.com/jeebrail) -->
+[![Metrics](/github-metrics.svg)](https://github.com/jeebrail)
 
 ![Profile views](https://komarev.com/ghpvc/?username=jeebrail&style=plastic)
 </div>
